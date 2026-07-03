@@ -10,4 +10,4 @@
 ![Print da Tela Ver Detalhes](page9point1.png)
 
 **2. Print do Console do navegador:**
-![Print do Console](./caminho-para-sua-imagem-console.png)
+![Print do Console](console9.png)
